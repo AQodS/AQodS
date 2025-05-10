@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi👋, I'm Qoddri</h1>
-<h6>What are you looking for?</h6>
+
+###
+
+<h5>What are you looking for?</h5>
 
 ###
 
@@ -26,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am a Physics graduate from Institut Teknologi Bandung, specializing in Computational Photonic Physics. With almost three<br>years of experience as a physics teacher for High school and TPB (first year ITB students). I love helping others understand<br>the wonder of physics. I am proficient in math and able to apply knowledge of physics to solve complex problems. I have<br>also studied Web Programming, Data Science, and Machine Learning. Now, I am ready for a new adventure and excited to<br>dive into the world of Information Technology<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Backend Development<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: Rendang is so damn good</p>
+<p align="left">I am a Physics graduate from Institut Teknologi Bandung, specializing in Computational Photonic Physics. With almost three<br>years of experience as a physics teacher for High school and TPB (first year ITB students). I love helping others understand<br>the wonder of physics. I am proficient in math and able to apply knowledge of physics to solve complex problems. I have<br>also studied Web Programming, Data Science, and Machine Learning. Now, I am ready for a new adventure and excited to<br>dive into the world of Information Technology<br><br>✨ Creating bugs since 2023<br>🌱 I'm currently learning Backend Development<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: Rendang is so damn good</p>
 
 ###
 
@@ -77,19 +80,23 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/qoddri/" target="blank">
+  <a href="https://www.linkedin.com/in/qoddri/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:qoddri@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/qoddri_/">
+  <a href="https://www.instagram.com/qoddri_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/achmad.qoddry">
+  <a href="https://www.facebook.com/achmad.qoddry" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<h5 align="left">Help me! <br>Pacman eat my commit.</h5>
 
 ###
 
