@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-![Header](img/github-header-image.png)
+![Header](img/github-header-image_1.png)
 
 <!--
 **AQodS/AQodS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi👋, I'm Qoddri</h1>
+<h1 align="left">Hi, I'm Qoddri👋</h1>
 
 ###
 
-<h5>What are you looking for?</h5>
+_<h5>What are you looking for?</h5>_
 
 ###
 
@@ -80,16 +80,16 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/qoddri/" target="_blank">
+  <a href="https://www.linkedin.com/in/qoddri/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:qoddri@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/qoddri_/" target="_blank">
+  <a href="https://www.instagram.com/qoddri_/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/achmad.qoddry" target="_blank">
+  <a href="https://www.facebook.com/achmad.qoddry">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
