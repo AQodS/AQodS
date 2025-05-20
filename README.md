@@ -96,7 +96,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<h5 align="left">Help me! <br>Pacman eat my commit.</h5>
+<h4 align="left">Help me! <br>Pacman eat my commit.</h4>
 
 ###
 
