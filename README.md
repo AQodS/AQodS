@@ -53,6 +53,8 @@ _<h5>What are you looking for?</h5>_
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   
