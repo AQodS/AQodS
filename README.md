@@ -55,6 +55,10 @@ _<h5>What are you looking for?</h5>_
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter logo"  />
+
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   
