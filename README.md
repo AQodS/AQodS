@@ -52,7 +52,7 @@ _<h5>What are you looking for?</h5>_
   
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter logo"  />
   
