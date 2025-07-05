@@ -51,14 +51,10 @@ _<h5>What are you looking for?</h5>_
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter logo"  />
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter logo"  />
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   
@@ -66,17 +62,17 @@ _<h5>What are you looking for?</h5>_
   
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git logo"  />
 </div>
 
 ###
