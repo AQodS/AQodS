@@ -77,7 +77,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Let's get in touch, connect with me </h2>
 
 ###
 
