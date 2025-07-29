@@ -29,7 +29,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<p align="left">I am a Physics major with passion in programming, specializing in Computational Photonic Physics. I love helping others understand the wonder of physics. I am proficient in math and able to apply knowledge of physics to solve complex problems. I have also studied Web Programming, Data Science, and Machine Learning. Now, I am ready for a new adventure and excited to dive into the world of Information Technology<br><br>✨ Creating bugs since 2022<br>🌱 I'm currently learning Astro.js<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: Rendang is so damn good</p>
+<p align="left">I am a Physics major with passion in programming, specializing in Computational Photonic Physics. I love helping others understand the wonder of physics. I am proficient in math and able to apply knowledge of physics to solve complex problems. I have also studied Web Programming, Data Science, and Machine Learning. Now, I am ready for a new adventure and excited to dive into the world of Information Technology<br><br>✨ Creating bugs since 2022<br>🖥️ I’m currently working as software engineer<br>🌱 I'm currently learning Astro.js<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: Rendang is so damn good</p>
 
 ###
 
