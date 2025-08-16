@@ -33,7 +33,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
