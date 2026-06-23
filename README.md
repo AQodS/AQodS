@@ -29,7 +29,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<p align="left">I am a Software Engineer with a strong fullstack background. I design and develop end–to–end applications, including building scalable APIs using FastAPI and Express.js, developing a Learning Management System (LMS) with React, and creating desktop applications using Electron. I have hands-on experience in both backend and frontend development, focusing on system integration, performance, and maintainable code. My background in Computational Physics from Institut Teknologi Bandung strengthens my analytical thinking and problem-solving approach in complex systems. I am continuously improving my skills in modern web technologies and am eager to contribute to impactful software products while growing as a software engineer.<br><br>✨ Creating bugs since 2022<br>🖥️ I’m currently working as software engineer<br>🌱 Lifelong learner<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: BPJS isn't javascript framework.</p>
+<p align="left">I am a Software Engineer with a strong fullstack background. I have experience developing <em>end-to-end</em> applications, including building scalable APIs, developing a Learning Management System and Desktop App. a I have hands-on experience in both backend and frontend development, focusing on system integration, performance, and maintainable code. My background in Computational Physics from Institut Teknologi Bandung strengthens my analytical thinking and problem solving approach in complex systems. I also have experience in Data Science and Machine Learning. I am continuously improving my skills in modern web technologies and am eager to contribute to impactful software products while growing as a software engineer.<br><br>✨ Creating bugs since 2022<br>🖥️ I’m currently working as software engineer<br>🌱 Lifelong learner<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: BPJS isn't javascript framework.</p>
 
 ###
 
@@ -47,6 +47,8 @@ _<h5>What are you looking for?</h5>_
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
   
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   
@@ -54,7 +56,11 @@ _<h5>What are you looking for?</h5>_
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   
@@ -73,6 +79,8 @@ _<h5>What are you looking for?</h5>_
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
