@@ -29,7 +29,7 @@ _<h5>What are you looking for?</h5>_
 
 ###
 
-<p align="left">I am a Physics major with passion in programming, specializing in Computational Photonic Physics. I love helping others understand the wonder of physics. I am proficient in math and able to apply knowledge of physics to solve complex problems. I have also studied Web Programming, Data Science, and Machine Learning. Now, I am ready for a new adventure and excited to dive into the world of Information Technology<br><br>✨ Creating bugs since 2022<br>🖥️ I’m currently working as software engineer<br>🌱 Lifelong learner<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: BPJS isn't javascript framework</p>
+<p align="left">I am a Software Engineer with a strong fullstack background. I design and develop end–to–end applications, including building scalable APIs using FastAPI and Express.js, developing a Learning Management System (LMS) with React, and creating desktop applications using Electron. I have hands-on experience in both backend and frontend development, focusing on system integration, performance, and maintainable code. My background in Computational Physics from Institut Teknologi Bandung strengthens my analytical thinking and problem-solving approach in complex systems. I am continuously improving my skills in modern web technologies and am eager to contribute to impactful software products while growing as a software engineer.<br><br>✨ Creating bugs since 2022<br>🖥️ I’m currently working as software engineer<br>🌱 Lifelong learner<br>🎯 Goals: Physicist & Programmer<br>🎲 Fun fact: BPJS isn't javascript framework</p>
 
 ###
 
